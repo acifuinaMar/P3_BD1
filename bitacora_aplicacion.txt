@@ -1,0 +1,92 @@
+[2025-10-02 17:19:35] Conectado a MySQL exitosamente
+[2025-10-02 17:19:41] Persona encontrada - DPI: 3873360870108
+[2025-10-02 17:19:48] Persona actualizada exitosamente - DPI: 3873360870108
+[2025-10-02 17:19:50] Campos del formulario limpiados
+[2025-10-02 17:19:52] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:20:06] Sincronización completada exitosamente
+[2025-10-02 17:20:45] Desconectado de MySQL
+[2025-10-02 17:20:47] Desconectado de PostgreSQL
+[2025-10-02 17:20:56] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:21:19] Persona encontrada - DPI: 3873360870108
+[2025-10-02 17:21:31] Persona eliminada exitosamente - DPI: 3873360870108
+[2025-10-02 17:21:46] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:21:48] Conectado a MySQL exitosamente
+[2025-10-02 17:21:49] Sincronización completada exitosamente
+[2025-10-02 17:22:06] Desconectado de PostgreSQL
+[2025-10-02 17:22:08] Desconectado de MySQL
+[2025-10-02 17:22:13] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:22:45] Persona agregada exitosamente - DPI: 2404108070101
+[2025-10-02 17:23:05] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:23:07] Conectado a MySQL exitosamente
+[2025-10-02 17:23:08] Sincronización completada exitosamente
+[2025-10-02 17:23:24] Desconectado de MySQL
+[2025-10-02 17:23:26] Desconectado de PostgreSQL
+[2025-10-02 17:23:27] Campos del formulario limpiados
+[2025-10-02 17:23:30] Bitácora limpiada
+[2025-10-02 17:33:23] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:33:53] Persona agregada exitosamente - DPI: 3873360870108
+[2025-10-02 17:34:03] Conectado a MySQL exitosamente
+[2025-10-02 17:34:05] Sincronización completada exitosamente
+[2025-10-02 17:34:15] Desconectado de MySQL
+[2025-10-02 17:34:17] Desconectado de PostgreSQL
+[2025-10-02 17:34:20] Conectado a MySQL exitosamente
+[2025-10-02 17:34:25] Persona encontrada - DPI: 3873360870108
+[2025-10-02 17:34:30] Persona actualizada exitosamente - DPI: 3873360870108
+[2025-10-02 17:34:46] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:34:47] Sincronización completada exitosamente
+[2025-10-02 17:35:00] Campos del formulario limpiados
+[2025-10-02 17:35:02] Desconectado de MySQL
+[2025-10-02 17:35:06] Desconectado de PostgreSQL
+[2025-10-02 17:35:15] Conectado a MySQL exitosamente
+[2025-10-02 17:35:16] Persona no encontrada - DPI: 2004108070101
+[2025-10-02 17:35:22] Persona encontrada - DPI: 2404108070101
+[2025-10-02 17:35:25] Persona eliminada exitosamente - DPI: 2404108070101
+[2025-10-02 17:35:37] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:35:38] Sincronización completada exitosamente
+[2025-10-02 17:36:15] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:36:18] Conectado a MySQL exitosamente
+[2025-10-02 17:36:18] Sincronización completada exitosamente
+[2025-10-02 17:37:43] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:37:45] Conectado a MySQL exitosamente
+[2025-10-02 17:37:46] Sincronización completada exitosamente
+[2025-10-02 17:38:00] Desconectado de MySQL
+[2025-10-02 17:38:02] Desconectado de PostgreSQL
+[2025-10-02 17:38:04] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:38:10] Persona encontrada - DPI: 2404108070101
+[2025-10-02 17:38:18] Persona actualizada exitosamente - DPI: 2404108070101
+[2025-10-02 17:38:21] Conectado a MySQL exitosamente
+[2025-10-02 17:38:22] Sincronización completada exitosamente
+[2025-10-02 17:38:37] Desconectado de MySQL
+[2025-10-02 17:38:39] Desconectado de PostgreSQL
+[2025-10-02 17:38:41] Campos del formulario limpiados
+[2025-10-02 17:38:45] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:38:49] Persona encontrada - DPI: 2404108070101
+[2025-10-02 17:38:52] Persona eliminada exitosamente - DPI: 2404108070101
+[2025-10-02 17:38:55] Conectado a MySQL exitosamente
+[2025-10-02 17:38:57] Sincronización completada exitosamente
+[2025-10-02 17:57:02] Conectado a MySQL exitosamente
+[2025-10-02 17:57:04] Conectado a PostgreSQL exitosamente
+[2025-10-02 17:57:05] Sincronización completada exitosamente
+[2025-10-02 18:02:40] Conectado a MySQL exitosamente
+[2025-10-02 18:02:47] Persona encontrada - DPI: 2404108070101
+[2025-10-02 18:02:51] Persona actualizada exitosamente - DPI: 2404108070101
+[2025-10-02 18:03:02] Conectado a PostgreSQL exitosamente
+[2025-10-02 18:03:03] Sincronización completada exitosamente
+[2025-10-02 18:03:08] Sincronización completada exitosamente
+[2025-10-02 18:03:13] Desconectado de MySQL
+[2025-10-02 18:03:15] Desconectado de PostgreSQL
+[2025-10-02 18:03:17] Campos del formulario limpiados
+[2025-10-02 18:03:20] Conectado a MySQL exitosamente
+[2025-10-02 18:03:25] Persona encontrada - DPI: 3873360870108
+[2025-10-02 18:03:31] Persona eliminada exitosamente - DPI: 3873360870108
+[2025-10-02 18:03:43] Conectado a PostgreSQL exitosamente
+[2025-10-02 18:03:44] Sincronización completada exitosamente
+[2025-10-02 18:04:16] Desconectado de PostgreSQL
+[2025-10-02 18:04:18] Desconectado de MySQL
+[2025-10-02 18:04:29] Conectado a PostgreSQL exitosamente
+[2025-10-02 18:04:35] Persona encontrada - DPI: 2404108070101
+[2025-10-02 18:04:37] Persona eliminada exitosamente - DPI: 2404108070101
+[2025-10-02 18:04:40] Conectado a MySQL exitosamente
+[2025-10-02 18:04:41] Sincronización completada exitosamente
+[2025-10-02 18:04:52] Desconectado de MySQL
+[2025-10-02 18:04:54] Desconectado de PostgreSQL
