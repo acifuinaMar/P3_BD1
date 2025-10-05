@@ -122,9 +122,9 @@ public class Sincronizar {
                 if (fechaModMySQL != null && fechaModPostgre != null) {
                     if (fechaModMySQL.after(fechaModPostgre)) {
                          actualizarRegistro(conexionPostgre, dpi, registroMySQL, "Desde MySQL");
-                    }
-                } else if(fechaModPostgre.after(fechaModMySQL)){
+                    } else if(fechaModPostgre.after(fechaModMySQL)){
                     actualizarRegistro(conexionMySQL, dpi, registroPostgreSQL, "Desde PostgreSQL");
+                    }
                 }
             }
         }
